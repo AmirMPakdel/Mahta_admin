@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "http://127.0.0.1:4000",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "react": "^16.5.2",
     "react-cookie": "^2.2.0",
     "react-dom": "^16.5.2",
